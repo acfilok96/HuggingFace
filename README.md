@@ -1,7 +1,7 @@
 # HuggingFace
 # Hugging Face Platform README
 
-![Hugging Face Logo](https://github.com/acfilok96/HuggingFace/assets/88615645/d86c0077-db7c-45be-8093-8e8bf37c48d3)
+![Hugging Face Logo](https://github.com/acfilok96/HuggingFace/assets/88615645/3f2b542e-0cdc-484f-b2b3-c15653b2d123)
 
 Welcome to the Hugging Face Platform repository! This repository hosts the code, documentation, and resources for the Hugging Face Platform, a cutting-edge hub for natural language processing (NLP) models, datasets, and training pipelines. 
 
